@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "011610e1-9234-41ca-bfb5-8f7c32d477ec": {
+      "ProjectGuid": "011610e1-9234-41ca-bfb5-8f7c32d477ec",
+      "DisplayName": "AppPedido",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

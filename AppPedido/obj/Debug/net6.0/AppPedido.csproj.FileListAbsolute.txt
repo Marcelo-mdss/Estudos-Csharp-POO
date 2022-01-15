@@ -1,0 +1,15 @@
+C:\Users\marce\source\repos\AppPedido\AppPedido\bin\Debug\net6.0\AppPedido.exe
+C:\Users\marce\source\repos\AppPedido\AppPedido\bin\Debug\net6.0\AppPedido.deps.json
+C:\Users\marce\source\repos\AppPedido\AppPedido\bin\Debug\net6.0\AppPedido.runtimeconfig.json
+C:\Users\marce\source\repos\AppPedido\AppPedido\bin\Debug\net6.0\AppPedido.dll
+C:\Users\marce\source\repos\AppPedido\AppPedido\bin\Debug\net6.0\ref\AppPedido.dll
+C:\Users\marce\source\repos\AppPedido\AppPedido\bin\Debug\net6.0\AppPedido.pdb
+C:\Users\marce\source\repos\AppPedido\AppPedido\obj\Debug\net6.0\AppPedido.csproj.AssemblyReference.cache
+C:\Users\marce\source\repos\AppPedido\AppPedido\obj\Debug\net6.0\AppPedido.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\source\repos\AppPedido\AppPedido\obj\Debug\net6.0\AppPedido.AssemblyInfoInputs.cache
+C:\Users\marce\source\repos\AppPedido\AppPedido\obj\Debug\net6.0\AppPedido.AssemblyInfo.cs
+C:\Users\marce\source\repos\AppPedido\AppPedido\obj\Debug\net6.0\AppPedido.csproj.CoreCompileInputs.cache
+C:\Users\marce\source\repos\AppPedido\AppPedido\obj\Debug\net6.0\AppPedido.dll
+C:\Users\marce\source\repos\AppPedido\AppPedido\obj\Debug\net6.0\ref\AppPedido.dll
+C:\Users\marce\source\repos\AppPedido\AppPedido\obj\Debug\net6.0\AppPedido.pdb
+C:\Users\marce\source\repos\AppPedido\AppPedido\obj\Debug\net6.0\AppPedido.genruntimeconfig.cache
